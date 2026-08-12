@@ -5,7 +5,7 @@ own consultancy, [XM Corporation](https://xmcorporation.com), based in
 Sintra, Portugal.
 
 - 🔧 IT support, repairs, and web development (WordPress → clean static HTML migrations)
-- 🌍 Active contributor to open-source **pt-PT (European Portuguese) translations** via Weblate/Poedit
+- 🌍 Active contributor to open-source **pt-PT (European Portuguese) translations** via Weblate/Poedit/etc
 - 🐧 Daily driver: EndeavourOS (XFCE), with a broader Linux homelab (Nextcloud, Docker)
 - 🎨 I design custom [GRUB themes](https://github.com/Ricardo-Simoes/cyberpunk_arcade) for fun
 - 🕹️ Retro gaming enthusiast (ES-DE, Visual Pinball X)
